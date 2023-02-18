@@ -1,1 +1,1 @@
-I am starting here
+I could not clone the reporsitory folder from the classroom so i did the project on my personal githb and merged the chanegs in. The other account is also my full name
